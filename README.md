@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<ul> 
+  <li>working on my own lumen project</li>
+  <li>like to contribute in open source</li>
+  <li>interested languages: Rust and TS</li>
+</ul>
