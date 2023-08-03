@@ -18,5 +18,5 @@ Here are some ideas to get you started:
 <ul> 
   <li>working on my own lumen project</li>
   <li>like to contribute in open source</li>
-  <li>interested languages: Rust and TS</li>
+  <li>interested languages: Rust, JS and TS</li>
 </ul>
