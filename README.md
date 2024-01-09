@@ -15,8 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+#### Experience: Rust, Java, C#, PHP, JavaScript, TypeScript, Python
+
 <ul> 
   <li>working on my own lumen project</li>
   <li>like to contribute in open source</li>
-  <li>interested languages: Rust, JS and TS</li>
+  <li>interested languages: Rust, Java, JS and TS</li>
 </ul>
