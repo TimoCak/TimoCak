@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-#### Experience: Rust, Java, C#, PHP, JavaScript, TypeScript, Python
+#### Experience: Rust, Java, PHP, JavaScript, TypeScript, Python
 
 <ul> 
   <li>working on my own lumen project</li>
