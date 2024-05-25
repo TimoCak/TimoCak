@@ -17,6 +17,8 @@ Here are some ideas to get you started:
 #### Techonologies:
 <div style="display: flex; justify-content: space-around; align-items: center" markdown="1">
   <img  src="https://user-images.githubusercontent.com/25181517/192599922-3a8ceb1c-ff1d-40bc-b73c-99ea1182d8ad.png" width="50" height="50"/>
+  <img  src="https://yew.rs/img/logo.svg" width="50" height="50"/>
+  <img  src="https://actix.rs/img/logo.png" width="50" height="50"/>
   <img  src="https://github.com/marwin1991/profile-technology-icons/assets/76662862/dbbc299a-8356-45e4-9d2e-a6c21b4569cf" width="50" height="50"/>
   <img  src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" width="50" height="50"/>
   <img  src="https://user-images.githubusercontent.com/25181517/117448124-a2da9800-af3e-11eb-85d2-bd1b69b65603.png" width="50" height="50"/>
