@@ -14,8 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<center>
-  
 #### Techonologies:
 <div style="display: flex; justify-content: space-around; align-items: center" markdown="1">
   <img  src="https://user-images.githubusercontent.com/25181517/192599922-3a8ceb1c-ff1d-40bc-b73c-99ea1182d8ad.png" width="50" height="50"/>
@@ -32,5 +30,3 @@ Here are some ideas to get you started:
 <br />
 
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=TimoCak&langs_count=7&theme=tokyonight)]()
-
-</center>
