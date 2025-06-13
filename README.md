@@ -29,6 +29,6 @@
 
 
 <p align="center">
-  [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=TimoCak&langs_count=7&theme=tokyonight)]()    
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TimoCak&langs_count=7&theme=tokyonight" />    
 </p>
 
