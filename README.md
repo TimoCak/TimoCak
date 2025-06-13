@@ -9,7 +9,7 @@
 </ul>
 
 #### Techonologies:
-<div style="margin: auto;display: flex; justify-content: space-around; align-items: center" markdown="1">
+<div style="text-align: center;" markdown="1">
   <img  src="https://user-images.githubusercontent.com/25181517/192599922-3a8ceb1c-ff1d-40bc-b73c-99ea1182d8ad.png" width="50" height="50"/>
   <img  src="https://yew.rs/img/logo.svg" width="50" height="50"/>
   <img  src="https://actix.rs/img/logo.png" width="50" height="50"/>
@@ -26,4 +26,7 @@
 <br />
 <br />
 
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=TimoCak&langs_count=7&theme=tokyonight)]()
+<center>
+  [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=TimoCak&langs_count=7&theme=tokyonight)]()  
+</center>
+
