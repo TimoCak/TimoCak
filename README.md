@@ -11,6 +11,9 @@
 
 <p align="center">
   <h3>Technologies:</h3>
+</p>
+
+<p align="center">
   <img  src="https://user-images.githubusercontent.com/25181517/192599922-3a8ceb1c-ff1d-40bc-b73c-99ea1182d8ad.png" width="50" height="50"/>
   <img  src="https://yew.rs/img/logo.svg" width="50" height="50"/>
   <img  src="https://actix.rs/img/logo.png" width="50" height="50"/>
