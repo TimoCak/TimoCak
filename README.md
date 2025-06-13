@@ -10,7 +10,7 @@
 
 
 <p align="center" markdown="1">
-  <h4>Technologies:</h4>
+  <h3>Technologies:</h3>
   <img  src="https://user-images.githubusercontent.com/25181517/192599922-3a8ceb1c-ff1d-40bc-b73c-99ea1182d8ad.png" width="50" height="50"/>
   <img  src="https://yew.rs/img/logo.svg" width="50" height="50"/>
   <img  src="https://actix.rs/img/logo.png" width="50" height="50"/>
@@ -26,6 +26,7 @@
 <br />
 <br />
 <br />
+
 
 <p align="center">
   [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=TimoCak&langs_count=7&theme=tokyonight)]()    
